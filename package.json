@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "super_bowl_liv_blog_post",
+  "version": "13.6.0",
+  "description": "A blog post about how to create a module using node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conradcasper22/super_bowl.git"
+  },
+  "author": "Conrad Casper <cnrdcasper@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conradcasper22/super_bowl/issues"
+  },
+  "homepage": "https://github.com/conradcasper22/super_bowl#readme"
+}
